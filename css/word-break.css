@@ -1,0 +1,7 @@
+.word-break {
+  /* Break long stings, but avoid breaking words. */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+          hyphens: auto;
+}
