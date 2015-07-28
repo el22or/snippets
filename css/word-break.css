@@ -1,5 +1,5 @@
 .word-break {
-  /* Break long stings, but avoid breaking words. */
+  /* Break long strings, but avoid breaking words. */
   word-break: break-word;
   -webkit-hyphens: auto;
      -moz-hyphens: auto;
